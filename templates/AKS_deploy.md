@@ -7,3 +7,6 @@ az aks create \
     --generate-ssh-keys \
     --attach-acr flaskportfolio
 
+Referecnes for deploying on free hosting service:
+
+https://medium.com/swlh/how-to-host-your-flask-app-on-pythonanywhere-for-free-df8486eb6a42
